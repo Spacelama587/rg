@@ -5,7 +5,7 @@ import { ArrowRight, Wifi, Tv, Coffee, UtensilsCrossed } from 'lucide-react';
 
 const cabins = [
   {
-    name: "Pine Haven",
+    name: "Cabin One",
     description: "A cozy 2-bedroom cabin perfect for small families",
     image: "/cabin1.avif",
     features: ["2 Bedrooms", "1 Bathroom", "Mountain View", "Full Kitchen"],
@@ -13,7 +13,7 @@ const cabins = [
     price: "$200/night"
   },
   {
-    name: "Cedar Lodge",
+    name: "Cabin Two",
     description: "Spacious 3-bedroom retreat with panoramic views",
     image: "/cabin2.avif",
     features: ["3 Bedrooms", "2 Bathrooms", "Lake View", "Hot Tub"],
@@ -21,7 +21,7 @@ const cabins = [
     price: "$300/night"
   },
   {
-    name: "Birch Cottage",
+    name: "Cabin Three",
     description: "Intimate 1-bedroom escape for couples",
     image: "/cabin3.avif",
     features: ["1 Bedroom", "1 Bathroom", "Private Deck", "Fireplace"],
